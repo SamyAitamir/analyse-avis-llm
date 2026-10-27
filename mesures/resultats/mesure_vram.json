@@ -1,0 +1,15 @@
+{
+  "vram_totale_mio": 6144,
+  "vram_repos_mio": 749,
+  "vram_mistral_charge_mio": 4962,
+  "ollama_ps": {
+    "taille_octets": 5060595545,
+    "taille_vram_octets": 4342205644,
+    "contexte": 4096
+  },
+  "bert_parametres": 167360261,
+  "bert_dtype": "torch.float32",
+  "bert_poids_mio": 647,
+  "bert_pic_inference_mio": 915,
+  "minilm_parametres": 22713216
+}

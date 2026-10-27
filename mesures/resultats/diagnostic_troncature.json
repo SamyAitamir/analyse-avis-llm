@@ -1,0 +1,21 @@
+{
+  "keybert_modele_defaut": "all-MiniLM-L6-v2",
+  "max_seq_length": 256,
+  "negatifs": {
+    "n_caracteres": 123500,
+    "n_tokens": 39895,
+    "part_vue_pct": 0.64,
+    "avis_entierement_vus": 2
+  },
+  "positifs": {
+    "n_caracteres": 140989,
+    "n_tokens": 44040,
+    "part_vue_pct": 0.58,
+    "avis_entierement_vus": 1
+  },
+  "avis_individuels_sup_256_tokens": 113,
+  "tokens_par_avis_mediane": 122.0,
+  "tokens_par_avis_max": 668,
+  "nlptown_avis_sup_512_tokens": 1,
+  "nlptown_tokens_max": 518
+}

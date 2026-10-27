@@ -1,0 +1,45 @@
+# Environnement Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Caches (Hugging Face, NLTK, outils)
+.cache/
+hf_cache/
+nltk_data/
+.ipynb_checkpoints/
+
+# Modèles et fichiers volumineux (téléchargés, jamais versionnés)
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.arrow
+models/
+
+# Journaux d'exécution
+logs/
+*.log
+
+# Fichiers auxiliaires LaTeX
+*.aux
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Données Allociné (texte de critiques d'utilisateurs) : régénérées par 01_dataset.py et run_all.py
+data/
+resultats/18_erreurs.csv
+mesures/resultats/rerun_mistral_*.csv

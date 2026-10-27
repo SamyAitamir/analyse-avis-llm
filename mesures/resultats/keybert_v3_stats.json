@@ -1,0 +1,26 @@
+{
+  "n_stop_words_nltk": 157,
+  "n_mots_domaine_ajoutes": 10,
+  "negatifs": {
+    "n_avis": 250,
+    "extractions": 1250,
+    "termes_distincts": 1199,
+    "termes_vus_une_fois": 1170,
+    "part_termes_vus_une_fois": 0.976,
+    "occurrences_max": 9,
+    "termes_a_2_occurrences_ou_plus": 29,
+    "part_extractions_top15": 0.042,
+    "avis_sans_extraction": 0
+  },
+  "positifs": {
+    "n_avis": 250,
+    "extractions": 1250,
+    "termes_distincts": 1217,
+    "termes_vus_une_fois": 1193,
+    "part_termes_vus_une_fois": 0.98,
+    "occurrences_max": 4,
+    "termes_a_2_occurrences_ou_plus": 24,
+    "part_extractions_top15": 0.031,
+    "avis_sans_extraction": 0
+  }
+}

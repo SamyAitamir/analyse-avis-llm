@@ -1,0 +1,42 @@
+theme,categorie,statut,n
+humeur,hors liste,hors liste,8
+"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories,7
+acteur,jeu d'acteur,rattaché par synonyme,6
+"réalisation/mise en scène, jeu d'acteur",plusieurs catégories,plusieurs catégories,4
+"réalisation/mise en scène, scénario, jeu d'acteur",plusieurs catégories,plusieurs catégories,3
+"réalisation/mise en scène, jeu d'acteur, émotion",plusieurs catégories,plusieurs catégories,2
+"réalisation/mise en scène, rythme",plusieurs catégories,plusieurs catégories,2
+"scénario, jeu d'acteur",plusieurs catégories,plusieurs catégories,2
+"réalisation/mise en scène, jeu d'acteur, rythme",plusieurs catégories,plusieurs catégories,2
+"rythme, humour",plusieurs catégories,plusieurs catégories,1
+"humour, émotion",plusieurs catégories,plusieurs catégories,1
+"humeur, jeu d'acteur",jeu d'acteur,rattaché par synonyme,1
+autre (référence à l'image donnée de paris et à l'amateurisme du film),autre,conforme après normalisation de surface,1
+acteur/interprétation,jeu d'acteur,rattaché par synonyme,1
+acteur/jeu,jeu d'acteur,rattaché par synonyme,1
+acteur (joueur),jeu d'acteur,rattaché par synonyme,1
+"rythme, humour, réalisation/mise en scène, émotion, autre (le critique semble avoir concentré sa critique sur la qualité du montage vidéo, du rythme, de l'humour, de la réalisation et de l'émotion dans le film, ainsi que sur la manière dont justin bieber et ses managers traitent ses fans et le cinéma.)",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, autre (car le film traite de la fracture sociale d'un maroc récemment indépendant et de la carrière de mimsy farmer)",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène (car la critique fait référence à un film avec un réalisateur connu, jcvd, et à sa performance)",réalisation/mise en scène,conforme après normalisation de surface,1
+"réalisation, scénario",plusieurs catégories,plusieurs catégories,1
+"rythme, émotion, humour, autre (documentaire)",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, jeu d'acteur, rythme, humeur",plusieurs catégories,plusieurs catégories,1
+"rythme, humour, émotion, scénario (car il y a mention de comédie, comédie romantique et poésie)",plusieurs catégories,plusieurs catégories,1
+"rythme, scénario",plusieurs catégories,plusieurs catégories,1
+"rythme, scénario, jeu d'acteur (voix), réalisation/mise en scène, animation",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, rythme, humeur",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, jeu d'acteur, rythme, humour, émotion, autres (scénario, effets spéciaux, 3-d, musique, casting, post-générique)",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, jeu d'acteur, effets spéciaux, scénario",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, rythme, émotion, autre (technologie et genre cinématique)",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, scénario, casting, rythme",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, scénario, humeur, émotion, autre",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, scénario, jeu d'acteur, dialogues et situations",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, rythme, jeu d'acteur, scénario",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, scénario, jeu d'acteur, humeur (par défaut) (n'est pas explicitement mentionné dans l'avis, mais il est impliqué que l'avis porte sur le scénario et le jeu d'acteurs en raison de la critique sur l'histoire et le jeu des acteurs, et sur la réalisation/mise en scène en raison de la critique sur le film en général et la mention des décors et des costumes)",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, scénario, jeu d'acteur, émotion",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, scénario, émotion, humour, rythme",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, scénario, émotion, humour (implicite), autre (réflexion sur les thèmes du film)",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, émotion",plusieurs catégories,plusieurs catégories,1
+"réalisation/mise en scène, émotion, humour (pour la mention de « rebondissements flippants »)",plusieurs catégories,plusieurs catégories,1
+"scénario, jeu d'acteur, humour",plusieurs catégories,plusieurs catégories,1
+"scénario, mise en scène",plusieurs catégories,plusieurs catégories,1

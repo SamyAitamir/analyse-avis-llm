@@ -1,0 +1,27 @@
+# Dépendances réellement importées par les scripts du projet (Python 3.10.11).
+# Versions relevées dans l'environnement virtuel du projet (venv/).
+#
+# torch : la version utilisée est la build CUDA 12.6 (2.14.0+cu126). Pour l'installer :
+#   pip install torch==2.14.0 --index-url https://download.pytorch.org/whl/cu126
+# Sans GPU NVIDIA, la build CPU fonctionne aussi (BERT et KeyBERT seront plus lents).
+#
+# Mistral 7B n'est pas une dépendance Python : il est servi par Ollama (testé avec
+# Ollama 0.35.0 puis 0.40.2), à installer séparément puis : ollama pull mistral
+
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+scipy==1.15.3
+matplotlib==3.10.9
+datasets==5.0.1
+torch==2.14.0
+transformers==5.17.0
+sentence-transformers==6.1.0
+keybert==0.9.0
+nltk==3.10.3
+ollama==0.6.2
+
+# Notebook (analyse_avis.ipynb) : exécution et export
+ipykernel==7.3.0
+nbformat==5.11.1
+nbconvert==7.17.2

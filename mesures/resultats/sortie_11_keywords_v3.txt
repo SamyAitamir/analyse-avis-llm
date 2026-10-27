@@ -1,0 +1,33 @@
+=== Thèmes les plus fréquents — NÉGATIFS ===
+peut être: 9
+histoire: 8
+cette histoire: 7
+attendais: 4
+jeu acteurs: 4
+faire foutre: 2
+vite: 2
+intrigue: 2
+parvient jamais: 2
+série: 2
+bien très: 2
+musique: 2
+fait peut: 2
+entre: 2
+histoire seul: 2
+
+=== Thèmes les plus fréquents — POSITIFS ===
+peut être: 4
+très bonne: 4
+hitchcock: 3
+bon histoire: 3
+musique: 3
+fait bien: 3
+très bien: 3
+bonne comédie: 2
+chef oeuvre: 2
+mel gibson: 2
+habille prada: 2
+sergio leone: 2
+vraiment bien: 2
+acteurs jouent: 2
+cette histoire: 2

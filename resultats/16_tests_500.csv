@@ -1,0 +1,5 @@
+perimetre,A,B,n,A_juste_B_faux,A_faux_B_juste,p_mcnemar
+(a) Avis non neutres pour Mistral 1-5,Mistral 1-5,Mistral binaire,445,5,1,0.21875
+(b) Sous-ensemble commun,Mistral 1-5,Mistral binaire,399,4,0,0.125
+(b) Sous-ensemble commun,Mistral 1-5,BERT 1-5,399,12,4,0.076812744140625
+(b) Sous-ensemble commun,Mistral binaire,BERT 1-5,399,12,8,0.5034446716308594

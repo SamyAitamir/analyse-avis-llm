@@ -1,0 +1,3 @@
+binaire: 120 avis, total 108.3s, moyenne 0.90s/avis
+etoiles: 120 avis, total 95.7s, moyenne 0.80s/avis
+themes: 30 avis, total 34.8s, moyenne 1.16s/avis

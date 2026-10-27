@@ -1,0 +1,501 @@
+id,label,theme,categorie,statut
+0,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+1,0,scénario,scénario,conforme brut
+2,0,scénario,scénario,conforme brut
+3,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+4,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+5,0,scénario,scénario,conforme brut
+6,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+7,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+8,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+9,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+10,0,scénario,scénario,conforme brut
+11,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+12,0,scénario,scénario,conforme brut
+13,0,rythme,rythme,conforme brut
+14,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+15,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+16,0,rythme,rythme,conforme brut
+17,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+18,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+19,0,acteur,jeu d'acteur,rattaché par synonyme
+20,0,scénario,scénario,conforme brut
+21,0,scénario,scénario,conforme brut
+22,0,scénario,scénario,conforme brut
+23,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+24,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+25,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+26,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+27,0,scénario,scénario,conforme brut
+28,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+29,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+30,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+31,0,émotion,émotion,conforme brut
+32,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+33,0,rythme,rythme,conforme brut
+34,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+35,0,scénario,scénario,conforme brut
+36,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+37,0,scénario,scénario,conforme brut
+38,0,rythme,rythme,conforme brut
+39,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+40,0,rythme,rythme,conforme brut
+41,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+42,0,scénario,scénario,conforme brut
+43,0,humour,humour,conforme brut
+44,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+45,0,scénario,scénario,conforme brut
+46,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+47,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+48,0,autre (référence à l'image donnée de paris et à l'amateurisme du film),autre,conforme après normalisation de surface
+49,0,rythme,rythme,conforme brut
+50,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+51,0,scénario,scénario,conforme brut
+52,0,rythme,rythme,conforme brut
+53,0,rythme,rythme,conforme brut
+54,0,rythme,rythme,conforme brut
+55,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+56,0,rythme,rythme,conforme brut
+57,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+58,0,"réalisation/mise en scène, émotion, humour (pour la mention de « rebondissements flippants »)",plusieurs catégories,plusieurs catégories
+59,0,scénario,scénario,conforme brut
+60,0,scénario,scénario,conforme brut
+61,0,autre,autre,conforme brut
+62,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+63,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+64,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+65,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+66,0,"réalisation/mise en scène, scénario, jeu d'acteur, dialogues et situations",plusieurs catégories,plusieurs catégories
+67,0,humour,humour,conforme brut
+68,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+69,0,scénario,scénario,conforme brut
+70,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+71,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+72,0,"rythme, humour, réalisation/mise en scène, émotion, autre (le critique semble avoir concentré sa critique sur la qualité du montage vidéo, du rythme, de l'humour, de la réalisation et de l'émotion dans le film, ainsi que sur la manière dont justin bieber et ses managers traitent ses fans et le cinéma.)",plusieurs catégories,plusieurs catégories
+73,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+74,0,rythme,rythme,conforme brut
+75,0,jeu d'acteur,jeu d'acteur,conforme brut
+76,0,scénario,scénario,conforme brut
+77,0,scénario,scénario,conforme brut
+78,0,rythme,rythme,conforme brut
+79,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+80,0,scénario,scénario,conforme brut
+81,0,rythme,rythme,conforme brut
+82,0,émotion,émotion,conforme brut
+83,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+84,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+85,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+86,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+87,0,scénario,scénario,conforme brut
+88,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+89,0,rythme,rythme,conforme brut
+90,0,scénario,scénario,conforme brut
+91,0,rythme,rythme,conforme brut
+92,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+93,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+94,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+95,0,rythme,rythme,conforme brut
+96,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+97,0,scénario,scénario,conforme brut
+98,0,"scénario, jeu d'acteur",plusieurs catégories,plusieurs catégories
+99,0,scénario,scénario,conforme brut
+100,0,"réalisation/mise en scène, scénario, jeu d'acteur",plusieurs catégories,plusieurs catégories
+101,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+102,0,humeur,hors liste,hors liste
+103,0,scénario,scénario,conforme brut
+104,0,scénario,scénario,conforme brut
+105,0,"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories
+106,0,humour,humour,conforme brut
+107,0,scénario,scénario,conforme brut
+108,0,rythme,rythme,conforme brut
+109,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+110,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+111,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+112,0,scénario,scénario,conforme brut
+113,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+114,0,scénario,scénario,conforme brut
+115,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+116,0,"réalisation/mise en scène, scénario, jeu d'acteur, humeur (par défaut) (n'est pas explicitement mentionné dans l'avis, mais il est impliqué que l'avis porte sur le scénario et le jeu d'acteurs en raison de la critique sur l'histoire et le jeu des acteurs, et sur la réalisation/mise en scène en raison de la critique sur le film en général et la mention des décors et des costumes)",plusieurs catégories,plusieurs catégories
+117,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+118,0,scénario,scénario,conforme brut
+119,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+120,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+121,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+122,0,scénario,scénario,conforme brut
+123,0,acteur/interprétation,jeu d'acteur,rattaché par synonyme
+124,0,rythme,rythme,conforme brut
+125,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+126,0,scénario,scénario,conforme brut
+127,0,scénario,scénario,conforme brut
+128,0,scénario,scénario,conforme brut
+129,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+130,0,rythme,rythme,conforme brut
+131,0,scénario,scénario,conforme brut
+132,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+133,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+134,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+135,0,scénario,scénario,conforme brut
+136,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+137,0,scénario,scénario,conforme brut
+138,0,humour,humour,conforme brut
+139,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+140,0,humeur,hors liste,hors liste
+141,0,rythme,rythme,conforme brut
+142,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+143,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+144,0,rythme,rythme,conforme brut
+145,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+146,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+147,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+148,0,rythme,rythme,conforme brut
+149,0,scénario,scénario,conforme brut
+150,0,scénario,scénario,conforme brut
+151,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+152,0,rythme,rythme,conforme brut
+153,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+154,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+155,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+156,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+157,0,scénario,scénario,conforme brut
+158,0,scénario,scénario,conforme brut
+159,0,scénario,scénario,conforme brut
+160,0,rythme,rythme,conforme brut
+161,0,rythme,rythme,conforme brut
+162,0,acteur,jeu d'acteur,rattaché par synonyme
+163,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+164,0,rythme,rythme,conforme brut
+165,0,rythme,rythme,conforme brut
+166,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+167,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+168,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+169,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+170,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+171,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+172,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+173,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+174,0,"réalisation/mise en scène, autre (car le film traite de la fracture sociale d'un maroc récemment indépendant et de la carrière de mimsy farmer)",plusieurs catégories,plusieurs catégories
+175,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+176,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+177,0,humeur,hors liste,hors liste
+178,0,scénario,scénario,conforme brut
+179,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+180,0,scénario,scénario,conforme brut
+181,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+182,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+183,0,scénario,scénario,conforme brut
+184,0,scénario,scénario,conforme brut
+185,0,scénario,scénario,conforme brut
+186,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+187,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+188,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+189,0,scénario,scénario,conforme brut
+190,0,"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories
+191,0,scénario,scénario,conforme brut
+192,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+193,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+194,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+195,0,scénario,scénario,conforme brut
+196,0,jeu d'acteur,jeu d'acteur,conforme brut
+197,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+198,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+199,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+200,0,scénario,scénario,conforme brut
+201,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+202,0,rythme,rythme,conforme brut
+203,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+204,0,humeur,hors liste,hors liste
+205,0,scénario,scénario,conforme brut
+206,0,humour,humour,conforme brut
+207,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+208,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+209,0,rythme,rythme,conforme brut
+210,0,rythme,rythme,conforme brut
+211,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+212,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+213,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+214,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+215,0,scénario,scénario,conforme brut
+216,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+217,0,rythme,rythme,conforme brut
+218,0,acteur,jeu d'acteur,rattaché par synonyme
+219,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+220,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+221,0,scénario,scénario,conforme brut
+222,0,"scénario, mise en scène",plusieurs catégories,plusieurs catégories
+223,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+224,0,scénario,scénario,conforme brut
+225,0,scénario,scénario,conforme brut
+226,0,scénario,scénario,conforme brut
+227,0,scénario,scénario,conforme brut
+228,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+229,0,acteur,jeu d'acteur,rattaché par synonyme
+230,0,humour,humour,conforme brut
+231,0,rythme,rythme,conforme brut
+232,0,scénario,scénario,conforme brut
+233,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+234,0,scénario,scénario,conforme brut
+235,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+236,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+237,0,humeur,hors liste,hors liste
+238,0,rythme,rythme,conforme brut
+239,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+240,0,scénario,scénario,conforme brut
+241,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+242,0,"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories
+243,0,scénario,scénario,conforme brut
+244,0,rythme,rythme,conforme brut
+245,0,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+246,0,scénario,scénario,conforme brut
+247,0,jeu d'acteur,jeu d'acteur,conforme brut
+248,0,scénario,scénario,conforme brut
+249,0,rythme,rythme,conforme brut
+250,1,scénario,scénario,conforme brut
+251,1,rythme,rythme,conforme brut
+252,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+253,1,jeu d'acteur,jeu d'acteur,conforme brut
+254,1,rythme,rythme,conforme brut
+255,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+256,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+257,1,scénario,scénario,conforme brut
+258,1,scénario,scénario,conforme brut
+259,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+260,1,humour,humour,conforme brut
+261,1,"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories
+262,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+263,1,rythme,rythme,conforme brut
+264,1,"réalisation/mise en scène, émotion",plusieurs catégories,plusieurs catégories
+265,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+266,1,"réalisation/mise en scène, jeu d'acteur, rythme, humeur",plusieurs catégories,plusieurs catégories
+267,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+268,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+269,1,scénario,scénario,conforme brut
+270,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+271,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+272,1,humour,humour,conforme brut
+273,1,scénario,scénario,conforme brut
+274,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+275,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+276,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+277,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+278,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+279,1,"réalisation/mise en scène, scénario, émotion, humour, rythme",plusieurs catégories,plusieurs catégories
+280,1,scénario,scénario,conforme brut
+281,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+282,1,"réalisation/mise en scène, jeu d'acteur, effets spéciaux, scénario",plusieurs catégories,plusieurs catégories
+283,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+284,1,scénario,scénario,conforme brut
+285,1,"réalisation/mise en scène, scénario, humeur, émotion, autre",plusieurs catégories,plusieurs catégories
+286,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+287,1,émotion,émotion,conforme brut
+288,1,scénario,scénario,conforme brut
+289,1,scénario,scénario,conforme brut
+290,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+291,1,scénario,scénario,conforme brut
+292,1,scénario,scénario,conforme brut
+293,1,humeur,hors liste,hors liste
+294,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+295,1,scénario,scénario,conforme brut
+296,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+297,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+298,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+299,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+300,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+301,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+302,1,émotion,émotion,conforme brut
+303,1,"scénario, jeu d'acteur, humour",plusieurs catégories,plusieurs catégories
+304,1,"réalisation/mise en scène (car la critique fait référence à un film avec un réalisateur connu, jcvd, et à sa performance)",réalisation/mise en scène,conforme après normalisation de surface
+305,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+306,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+307,1,"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories
+308,1,acteur,jeu d'acteur,rattaché par synonyme
+309,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+310,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+311,1,rythme,rythme,conforme brut
+312,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+313,1,"réalisation/mise en scène, scénario, jeu d'acteur, émotion",plusieurs catégories,plusieurs catégories
+314,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+315,1,émotion,émotion,conforme brut
+316,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+317,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+318,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+319,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+320,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+321,1,émotion,émotion,conforme brut
+322,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+323,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+324,1,scénario,scénario,conforme brut
+325,1,rythme,rythme,conforme brut
+326,1,émotion,émotion,conforme brut
+327,1,scénario,scénario,conforme brut
+328,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+329,1,"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories
+330,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+331,1,scénario,scénario,conforme brut
+332,1,rythme,rythme,conforme brut
+333,1,émotion,émotion,conforme brut
+334,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+335,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+336,1,"rythme, humour",plusieurs catégories,plusieurs catégories
+337,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+338,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+339,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+340,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+341,1,"réalisation/mise en scène, rythme, humeur",plusieurs catégories,plusieurs catégories
+342,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+343,1,scénario,scénario,conforme brut
+344,1,rythme,rythme,conforme brut
+345,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+346,1,scénario,scénario,conforme brut
+347,1,scénario,scénario,conforme brut
+348,1,"réalisation/mise en scène, scénario, casting, rythme",plusieurs catégories,plusieurs catégories
+349,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+350,1,humeur,hors liste,hors liste
+351,1,"rythme, scénario",plusieurs catégories,plusieurs catégories
+352,1,scénario,scénario,conforme brut
+353,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+354,1,scénario,scénario,conforme brut
+355,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+356,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+357,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+358,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+359,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+360,1,scénario,scénario,conforme brut
+361,1,scénario,scénario,conforme brut
+362,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+363,1,scénario,scénario,conforme brut
+364,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+365,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+366,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+367,1,"humour, émotion",plusieurs catégories,plusieurs catégories
+368,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+369,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+370,1,rythme,rythme,conforme brut
+371,1,jeu d'acteur,jeu d'acteur,conforme brut
+372,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+373,1,scénario,scénario,conforme brut
+374,1,scénario,scénario,conforme brut
+375,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+376,1,"réalisation/mise en scène, jeu d'acteur",plusieurs catégories,plusieurs catégories
+377,1,scénario,scénario,conforme brut
+378,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+379,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+380,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+381,1,scénario,scénario,conforme brut
+382,1,scénario,scénario,conforme brut
+383,1,humeur,hors liste,hors liste
+384,1,émotion,émotion,conforme brut
+385,1,"réalisation/mise en scène, scénario, jeu d'acteur",plusieurs catégories,plusieurs catégories
+386,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+387,1,"réalisation/mise en scène, jeu d'acteur, émotion",plusieurs catégories,plusieurs catégories
+388,1,rythme,rythme,conforme brut
+389,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+390,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+391,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+392,1,humour,humour,conforme brut
+393,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+394,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+395,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+396,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+397,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+398,1,émotion,émotion,conforme brut
+399,1,"réalisation/mise en scène, jeu d'acteur, rythme",plusieurs catégories,plusieurs catégories
+400,1,scénario,scénario,conforme brut
+401,1,"réalisation/mise en scène, scénario",plusieurs catégories,plusieurs catégories
+402,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+403,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+404,1,"rythme, scénario, jeu d'acteur (voix), réalisation/mise en scène, animation",plusieurs catégories,plusieurs catégories
+405,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+406,1,scénario,scénario,conforme brut
+407,1,rythme,rythme,conforme brut
+408,1,humour,humour,conforme brut
+409,1,émotion,émotion,conforme brut
+410,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+411,1,scénario,scénario,conforme brut
+412,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+413,1,scénario,scénario,conforme brut
+414,1,"réalisation/mise en scène, rythme, émotion, autre (technologie et genre cinématique)",plusieurs catégories,plusieurs catégories
+415,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+416,1,"réalisation/mise en scène, scénario, jeu d'acteur",plusieurs catégories,plusieurs catégories
+417,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+418,1,scénario,scénario,conforme brut
+419,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+420,1,humour,humour,conforme brut
+421,1,scénario,scénario,conforme brut
+422,1,scénario,scénario,conforme brut
+423,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+424,1,"réalisation/mise en scène, jeu d'acteur",plusieurs catégories,plusieurs catégories
+425,1,émotion,émotion,conforme brut
+426,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+427,1,"réalisation/mise en scène, rythme, jeu d'acteur, scénario",plusieurs catégories,plusieurs catégories
+428,1,scénario,scénario,conforme brut
+429,1,"réalisation/mise en scène, scénario, émotion, humour (implicite), autre (réflexion sur les thèmes du film)",plusieurs catégories,plusieurs catégories
+430,1,rythme,rythme,conforme brut
+431,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+432,1,émotion,émotion,conforme brut
+433,1,"réalisation/mise en scène, rythme",plusieurs catégories,plusieurs catégories
+434,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+435,1,rythme,rythme,conforme brut
+436,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+437,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+438,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+439,1,émotion,émotion,conforme brut
+440,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+441,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+442,1,"réalisation/mise en scène, jeu d'acteur",plusieurs catégories,plusieurs catégories
+443,1,"réalisation/mise en scène, jeu d'acteur, émotion",plusieurs catégories,plusieurs catégories
+444,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+445,1,scénario,scénario,conforme brut
+446,1,scénario,scénario,conforme brut
+447,1,jeu d'acteur,jeu d'acteur,conforme brut
+448,1,émotion,émotion,conforme brut
+449,1,rythme,rythme,conforme brut
+450,1,scénario,scénario,conforme brut
+451,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+452,1,"réalisation/mise en scène, jeu d'acteur, rythme, humour, émotion, autres (scénario, effets spéciaux, 3-d, musique, casting, post-générique)",plusieurs catégories,plusieurs catégories
+453,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+454,1,émotion,émotion,conforme brut
+455,1,acteur/jeu,jeu d'acteur,rattaché par synonyme
+456,1,scénario,scénario,conforme brut
+457,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+458,1,scénario,scénario,conforme brut
+459,1,humour,humour,conforme brut
+460,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+461,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+462,1,"humeur, jeu d'acteur",jeu d'acteur,rattaché par synonyme
+463,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+464,1,rythme,rythme,conforme brut
+465,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+466,1,"réalisation/mise en scène, jeu d'acteur, rythme",plusieurs catégories,plusieurs catégories
+467,1,scénario,scénario,conforme brut
+468,1,scénario,scénario,conforme brut
+469,1,jeu d'acteur,jeu d'acteur,conforme brut
+470,1,"scénario, jeu d'acteur",plusieurs catégories,plusieurs catégories
+471,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+472,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+473,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+474,1,scénario,scénario,conforme brut
+475,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+476,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+477,1,rythme,rythme,conforme brut
+478,1,"rythme, émotion, humour, autre (documentaire)",plusieurs catégories,plusieurs catégories
+479,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+480,1,acteur (joueur),jeu d'acteur,rattaché par synonyme
+481,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+482,1,"réalisation/mise en scène, rythme",plusieurs catégories,plusieurs catégories
+483,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+484,1,"réalisation, scénario",plusieurs catégories,plusieurs catégories
+485,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+486,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+487,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+488,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+489,1,"rythme, humour, émotion, scénario (car il y a mention de comédie, comédie romantique et poésie)",plusieurs catégories,plusieurs catégories
+490,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+491,1,humour,humour,conforme brut
+492,1,rythme,rythme,conforme brut
+493,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+494,1,acteur,jeu d'acteur,rattaché par synonyme
+495,1,scénario,scénario,conforme brut
+496,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+497,1,rythme,rythme,conforme brut
+498,1,réalisation/mise en scène,réalisation/mise en scène,conforme brut
+499,1,"réalisation/mise en scène, jeu d'acteur",plusieurs catégories,plusieurs catégories

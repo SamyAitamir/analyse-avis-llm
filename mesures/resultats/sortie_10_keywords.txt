@@ -1,0 +1,33 @@
+=== Mots-clés des avis NÉGATIFS ===
+filmique est: 0.519
+le cinéma: 0.513
+le cinema: 0.513
+le film: 0.507
+bien film: 0.506
+cinématographique qui: 0.505
+cinématographique pour: 0.492
+les films: 0.483
+film totalement: 0.467
+film est: 0.467
+erreur filmique: 0.464
+filmé mal: 0.460
+du grotesque: 0.459
+contre laquelle: 0.459
+cinéma français: 0.458
+
+=== Mots-clés des avis POSITIFS ===
+filmsseul petit: 0.556
+bien filmées: 0.550
+le cinéma: 0.538
+bien filmé: 0.537
+le film: 0.527
+filmé dans: 0.519
+films une: 0.517
+dvd pourquoi: 0.515
+les films: 0.514
+filmique bien: 0.512
+documentaire filmé: 0.510
+filmé bien: 0.509
+filme un: 0.508
+film entre: 0.503
+film une: 0.502

@@ -1,0 +1,33 @@
+=== Mots-clés des avis NÉGATIFS ===
+particulièrement margot: 0.464
+entre 16: 0.460
+permettre avoir: 0.460
+contre laquelle: 0.459
+après histoire: 0.452
+histoire passionnante: 0.451
+entre twilight: 0.444
+parvient mettre: 0.439
+intérieur laquelle: 0.427
+mal histoire: 0.427
+scènes totalement: 0.425
+histoire intéressante: 0.424
+pendant lesquels: 0.421
+entre autres: 0.421
+tombe petit: 0.419
+
+=== Mots-clés des avis POSITIFS ===
+filmsseul petit: 0.556
+derniers filmsseul: 0.479
+bon histoire: 0.453
+cette histoire: 0.451
+entre lelouch: 0.447
+être petit: 0.444
+filmographie jean: 0.439
+histoire passionnante: 0.438
+filmsseul: 0.434
+meilleur lelouch: 0.432
+filmés faut: 0.431
+vraiment petit: 0.431
+impressionnante vie: 0.427
+comédies françaises: 0.426
+avoir joué: 0.424

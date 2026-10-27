@@ -1,0 +1,9 @@
+type,BERT,Mistral 1-5,total (avis distincts)
+C. Avis mitigé (positif et négatif mêlés),5,6,11
+G. Texte ambigu ou en désaccord apparent avec le label,2,4,5
+"B. Jugement implicite (référence externe, expression figée)",3,1,4
+A. Ironie / sarcasme,4,1,4
+D. Élément isolé loué dans un avis négatif,2,1,2
+E. Vocabulaire du sujet pris pour un jugement,1,1,2
+F. Négation / tournure,1,0,1
+H. Sans explication apparente,1,0,1
