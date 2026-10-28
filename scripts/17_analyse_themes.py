@@ -88,7 +88,7 @@ def normaliser(rep):
 df = pd.read_csv("data/resultats_themes_llm_500.csv").drop_duplicates("id").sort_values("id")
 print(f"{len(df)} avis catégorisés (labels : {df['label'].value_counts().sort_index().to_dict()})")
 if len(df) < 500:
-    print("ATTENTION : traitement incomplet, relancer 15_themes_llm_500.py")
+    print("ATTENTION : traitement incomplet, relancer scripts/15_themes_llm_500.py")
 res = df["theme"].apply(normaliser)
 df["categorie"] = [r[0] for r in res]
 df["statut"] = [r[1] for r in res]

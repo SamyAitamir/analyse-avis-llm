@@ -11,30 +11,30 @@ Le projet est passé par plusieurs itérations. La première comparaison entre l
 | Fichier | Rôle |
 |---|---|
 | `analyse_avis.ipynb` | Synthèse lisible : démarche, code, résultats et limites |
-| `01_dataset.py` | Chargement d'Allociné, nettoyage, échantillon de 500 avis (250 négatifs, 250 positifs) |
-| `02_sentiment_llm.py`, `03_evaluation_llm.py` | Mistral, prompt binaire, 120 avis, et son évaluation |
-| `04_sentiment_bert.py`, `05_evaluation_bert.py` | BERT nlptown (notes 1-5), et son évaluation |
-| `06_comparaison.py` | Première comparaison Mistral / BERT (celle qui était biaisée) |
-| `08_sentiment_llm_stars.py`, `09_evaluation_llm_stars.py` | Mistral avec l'échelle 1-5, et son évaluation |
-| `10_keywords.py`, `10_keywords_v2.py` | KeyBERT sur le texte concaténé (v1, v2) |
-| `11_keywords_v3.py` | KeyBERT avis par avis (v3) |
-| `12_themes_llm.py` | Catégorisation de thèmes par Mistral, 30 avis |
-| `13_effet_prompt.py` | Isole l'effet du prompt à périmètre égal (IC, McNemar), 120 avis |
-| `14_mistral_500.py` | Mistral binaire et 1-5 sur 500 avis (reprise possible) |
-| `15_themes_llm_500.py` | Catégorisation de thèmes par Mistral, 500 avis |
-| `16_evaluation_500.py` | Évaluation sur 500 avis : IC, McNemar, bootstrap, stabilité |
-| `17_analyse_themes.py` | Normalisation des thèmes, croisement avec le sentiment, comparaison avec KeyBERT |
-| `18_analyse_erreurs.py` | Analyse des erreurs des deux modèles |
-| `19_figures.py` | Génération des graphiques |
-| `outils_eval.py` | Fonctions statistiques communes (Wilson, McNemar, bootstrap) |
-| `voir_erreur.py` | Inspection rapide des erreurs du prompt binaire |
 | `run_all.py` | Enchaîne les scripts dans l'ordre |
+| `scripts/01_dataset.py` | Chargement d'Allociné, nettoyage, échantillon de 500 avis (250 négatifs, 250 positifs) |
+| `scripts/02_sentiment_llm.py`, `scripts/03_evaluation_llm.py` | Mistral, prompt binaire, 120 avis, et son évaluation |
+| `scripts/04_sentiment_bert.py`, `scripts/05_evaluation_bert.py` | BERT nlptown (notes 1-5), et son évaluation |
+| `scripts/06_comparaison.py` | Première comparaison Mistral / BERT (celle qui était biaisée) |
+| `scripts/08_sentiment_llm_stars.py`, `scripts/09_evaluation_llm_stars.py` | Mistral avec l'échelle 1-5, et son évaluation |
+| `scripts/10_keywords.py`, `scripts/10_keywords_v2.py` | KeyBERT sur le texte concaténé (v1, v2) |
+| `scripts/11_keywords_v3.py` | KeyBERT avis par avis (v3) |
+| `scripts/12_themes_llm.py` | Catégorisation de thèmes par Mistral, 30 avis |
+| `scripts/13_effet_prompt.py` | Isole l'effet du prompt à périmètre égal (IC, McNemar), 120 avis |
+| `scripts/14_mistral_500.py` | Mistral binaire et 1-5 sur 500 avis (reprise possible) |
+| `scripts/15_themes_llm_500.py` | Catégorisation de thèmes par Mistral, 500 avis |
+| `scripts/16_evaluation_500.py` | Évaluation sur 500 avis : IC, McNemar, bootstrap, stabilité |
+| `scripts/17_analyse_themes.py` | Normalisation des thèmes, croisement avec le sentiment, comparaison avec KeyBERT |
+| `scripts/18_analyse_erreurs.py` | Analyse des erreurs des deux modèles |
+| `scripts/19_figures.py` | Génération des graphiques |
+| `scripts/outils_eval.py` | Fonctions statistiques communes (Wilson, McNemar, bootstrap) |
+| `scripts/voir_erreur.py` | Inspection rapide des erreurs du prompt binaire |
 | `resultats/` | Tableaux produits par les analyses, dont l'annotation manuelle des erreurs |
 | `figures/` | Graphiques (PNG et PDF) |
 | `mesures/` | Mesures annexes : mémoire GPU, temps d'inférence, troncature de KeyBERT, relance de Mistral |
 | `requirements.txt` | Dépendances Python |
 
-Le numéro 07 n'existe pas. `12_themes_llm.py` s'appelait `11_themes_llm.py` avant d'être renommé pour éviter un doublon.
+Le numéro 07 n'existe pas. `scripts/12_themes_llm.py` s'appelait `11_themes_llm.py` avant d'être renommé pour éviter un doublon.
 
 ## Reproduire
 
@@ -45,3 +45,5 @@ pip install torch==2.14.0 --index-url https://download.pytorch.org/whl/cu126
 pip install -r requirements.txt
 python run_all.py --tout    # toute la chaîne, environ 40 minutes
 ```
+
+Les scripts lisent et écrivent des chemins relatifs à la racine du projet : pour un script isolé, le lancer depuis la racine, par exemple `python scripts/16_evaluation_500.py`.

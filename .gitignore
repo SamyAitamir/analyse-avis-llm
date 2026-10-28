@@ -39,7 +39,7 @@ desktop.ini
 .vscode/
 .idea/
 
-# Données Allociné (texte de critiques d'utilisateurs) : régénérées par 01_dataset.py et run_all.py
+# Données Allociné (texte de critiques d'utilisateurs) : régénérées par scripts/01_dataset.py et run_all.py
 data/
 resultats/18_erreurs.csv
 mesures/resultats/rerun_mistral_*.csv

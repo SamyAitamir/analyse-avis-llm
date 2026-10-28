@@ -24,7 +24,7 @@ mb = pd.read_csv("data/resultats_llm_500.csv").drop_duplicates("id").set_index("
 ms = pd.read_csv("data/resultats_llm_stars_500.csv").drop_duplicates("id").set_index("id").sort_index()
 if len(mb) < len(ech) or len(ms) < len(ech):
     print(f"ATTENTION : traitement incomplet (binaire {len(mb)}/500, 1-5 {len(ms)}/500). "
-          "Relancer 14_mistral_500.py pour terminer.")
+          "Relancer scripts/14_mistral_500.py pour terminer.")
     if "--partiel" not in sys.argv:
         sys.exit(1)
 ids = mb.index.intersection(ms.index)

@@ -82,7 +82,7 @@ def main():
         if script.endswith(".ipynb"):
             commande = [sys.executable, "-m", "nbconvert", "--to", "notebook", "--execute", "--inplace", script]
         else:
-            commande = [sys.executable, script]
+            commande = [sys.executable, os.path.join("scripts", script)]
         r = subprocess.run(commande)
         if r.returncode != 0:
             sys.exit(f"Échec de {script} (code {r.returncode}).")
